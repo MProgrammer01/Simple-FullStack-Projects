@@ -1,0 +1,28 @@
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.exe
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.deps.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.runtimeconfig.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.AssemblyInfoInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.AssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\refint\CarProject_ClientSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.genruntimeconfig.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ClientSide\obj\Debug\net8.0\ref\CarProject_ClientSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.exe
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.deps.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.runtimeconfig.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\bin\Debug\net8.0\CarProject_ClientSide.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.AssemblyInfoInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.AssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\refint\CarProject_ClientSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\CarProject_ClientSide.genruntimeconfig.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ClientSide\obj\Debug\net8.0\ref\CarProject_ClientSide.dll

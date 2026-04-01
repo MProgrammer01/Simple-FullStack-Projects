@@ -1,0 +1,30 @@
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\bin\Debug\net8.0\BusinessLayerForAPICars.deps.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\bin\Debug\net8.0\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\bin\Debug\net8.0\BusinessLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\bin\Debug\net8.0\DataLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\bin\Debug\net8.0\DataLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.AssemblyInfoInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.AssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\Business.2A94FE55.Up2Date
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\refint\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\BusinessLayerForAPICars\obj\Debug\net8.0\ref\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\bin\Debug\net8.0\BusinessLayerForAPICars.deps.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\bin\Debug\net8.0\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\bin\Debug\net8.0\BusinessLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\bin\Debug\net8.0\DataLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\bin\Debug\net8.0\DataLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.AssemblyInfoInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.AssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\Business.2A94FE55.Up2Date
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\refint\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\BusinessLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\BusinessLayerForAPICars\obj\Debug\net8.0\ref\BusinessLayerForAPICars.dll

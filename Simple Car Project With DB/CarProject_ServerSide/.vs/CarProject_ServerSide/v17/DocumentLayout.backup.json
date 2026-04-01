@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\CarProject_ServerSide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC19936-60FB-449D-AD13-70E1EE24D4E9}|CarProject_ServerSide.csproj|d:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\introduction to restful api\\myproject\\carproject_serverside\\controllers\\carprojectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC19936-60FB-449D-AD13-70E1EE24D4E9}|CarProject_ServerSide.csproj|solutionrelative:controllers\\carprojectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C559FA25-BD8E-42E2-9D6A-8B64277B97A5}|..\\BusinessLayerForAPICars\\BusinessLayerForAPICars.csproj|d:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\introduction to restful api\\myproject\\businesslayerforapicars\\clscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A24D9E3-46A4-4904-9DD7-94BBC71256ED}|..\\DataLayerForAPICars\\DataLayerForAPICars.csproj|d:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\introduction to restful api\\myproject\\datalayerforapicars\\clsdatacar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A24D9E3-46A4-4904-9DD7-94BBC71256ED}|..\\DataLayerForAPICars\\DataLayerForAPICars.csproj|d:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\introduction to restful api\\myproject\\datalayerforapicars\\clscardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDataCar.cs",
+              "DocumentMoniker": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\DataLayerForAPICars\\clsDataCar.cs",
+              "RelativeDocumentMoniker": "..\\DataLayerForAPICars\\clsDataCar.cs",
+              "ToolTip": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\DataLayerForAPICars\\clsDataCar.cs",
+              "RelativeToolTip": "..\\DataLayerForAPICars\\clsDataCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:03:37.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarProjectController.cs",
+              "DocumentMoniker": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\CarProject_ServerSide\\Controllers\\CarProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarProjectController.cs",
+              "ToolTip": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\CarProject_ServerSide\\Controllers\\CarProjectController.cs",
+              "RelativeToolTip": "Controllers\\CarProjectController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:09:03.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCar.cs",
+              "DocumentMoniker": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\BusinessLayerForAPICars\\clsCar.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerForAPICars\\clsCar.cs",
+              "ToolTip": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\BusinessLayerForAPICars\\clsCar.cs",
+              "RelativeToolTip": "..\\BusinessLayerForAPICars\\clsCar.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAApwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:32:28.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsCarDTO.cs",
+              "DocumentMoniker": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\DataLayerForAPICars\\clsCarDTO.cs",
+              "RelativeDocumentMoniker": "..\\DataLayerForAPICars\\clsCarDTO.cs",
+              "ToolTip": "D:\\learn_c\u002B\u002B\\learn_c\u002B\u002B\\Introduction to RESTful API\\MyProject\\DataLayerForAPICars\\clsCarDTO.cs",
+              "RelativeToolTip": "..\\DataLayerForAPICars\\clsCarDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:17:14.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\appsettings.Development.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\appsettings.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.staticwebassets.endpoints.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.exe
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.deps.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.runtimeconfig.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.AssemblyInfoInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.AssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.MvcApplicationPartsAssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.MvcApplicationPartsAssemblyInfo.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\scopedcss\bundle\CarProject_ServerSide.styles.css
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.build.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.development.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets\msbuild.CarProject_ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets\msbuild.CarProject_ServerSide.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets\msbuild.build.CarProject_ServerSide.props
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CarProject_ServerSide.props
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CarProject_ServerSide.props
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.pack.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProje.BBA20895.Up2Date
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\refint\CarProject_ServerSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.genruntimeconfig.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\obj\Debug\net8.0\ref\CarProject_ServerSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Azure.Core.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Azure.Identity.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\System.ClientModel.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\System.Memory.Data.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\DataLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\BusinessLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\MyProject\CarProject_ServerSide\bin\Debug\net8.0\DataLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\appsettings.Development.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\appsettings.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.staticwebassets.endpoints.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.exe
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.deps.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.runtimeconfig.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\CarProject_ServerSide.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Azure.Core.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Azure.Identity.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\System.ClientModel.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\System.Memory.Data.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\BusinessLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\DataLayerForAPICars.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\BusinessLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\bin\Debug\net8.0\DataLayerForAPICars.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.AssemblyInfoInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.AssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.MvcApplicationPartsAssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.MvcApplicationPartsAssemblyInfo.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\scopedcss\bundle\CarProject_ServerSide.styles.css
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.build.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.development.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\swae.build.ex.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProje.BBA20895.Up2Date
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\refint\CarProject_ServerSide.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\CarProject_ServerSide.genruntimeconfig.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\Simple Car Project With DB\CarProject_ServerSide\obj\Debug\net8.0\ref\CarProject_ServerSide.dll
